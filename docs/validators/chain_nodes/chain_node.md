@@ -1,4 +1,4 @@
-# Running a Chain-Node
+# Running a Chain Node
 
 The Chain-Nodes are the backbone of KYVE. The chain layer is a
 completely sovereign [Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
